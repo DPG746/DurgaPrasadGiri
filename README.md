@@ -32,6 +32,25 @@
 </p>
 
 ---
+### 🎓 Certifications & Achievements  
+<p align="center">
+
+  <!-- Google Cloud -->
+  <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/llms" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cloud%20Certified-Data%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  </a>
+
+  <!-- Udemy -->
+  <a href="https://www.udemy.com/certificate/UC-d64c5738-a301-47c2-9ca9-81ddaa4d7e98/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-Machine%20Learning%20A--Z-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/>
+  </a>
+
+  <!-- AWS -->
+  <a href="https://www.linkedin.com/in/durga-p-giri-817470137/overlay/1752502436617/single-media-viewer/?profileId=ACoAACFZm5MBsRImzvylPK928gkVtAVHohQCUfw" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+
+</p>
 
 ### 🏆 GitHub Trophies  
 <p align="center">
