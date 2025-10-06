@@ -1,30 +1,22 @@
- 👋 Hi, I'm Durga Prasad  
-### 🚀 Engineer | Builder | Learner  
+# 👋 Hi, I'm Durga Prasad Giri  
+### 🚀 Full Stack & AI/ML Engineer | Builder | Learner  
 
-- 🔭 Working on AI/ML Projects and Web Development  
-- 🌱 Learning Advanced Machine Learning  
-- 💬 Ask me about Python, Django, FastAPI, and LangChain  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/durga-p-giri-817470137/)
+- 🔭 Currently working on AI, ML, and Deep Learning Projects  
+- 🌱 Learning LangChain, FastAPI, and MLOps  
+- 💬 Ask me about Python, Django, React, or Machine Learning  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/durga-p-giri-817470137/)  
 
 ---
 
-### 🧰 Tech Stack  
+## 🧰 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DurgaPrasadGiri&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaPrasadGiri&layout=compact&theme=radical)
-
----
-
-### 🏆 Badges & Achievements
-![Open Source](https://img.shields.io/badge/Open--Source-Contributor-blue)
-![Machine Learning](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/production-ml-systems)
 ---
 
 ## 🏆 GitHub Achievements & Stats
@@ -54,4 +46,5 @@
 ---
 
 ## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-p-giri-817470137/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-p-giri-817470137/)   
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/DPG746)
