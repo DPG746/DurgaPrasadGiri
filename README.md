@@ -4,7 +4,7 @@
 ---
 
 ### 💡 About Me  
-- 🔭 Currently building projects in **AI, ML, and Deep Learning**  
+- 🔭 Currently building projects in **AI, ML, Microservices, Springboot, Angular and Deep Learning**  
 - 🌱 Learning **LangChain**, **FastAPI**, and **MLOps**  
 - 💬 Ask me about **Python, Django, React, or Machine Learning**  
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/durga-p-giri-817470137/)  
