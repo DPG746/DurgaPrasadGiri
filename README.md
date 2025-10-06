@@ -45,7 +45,7 @@
 
 ### 👀 Visitors Count  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DurgaPrasadGiri&label=Profile%20Views&color=blue&style=flat-square" alt="Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=DPG746&label=Profile%20Views&color=blue&style=flat-square" alt="Visitors"/>
 </p>
 
 ---
