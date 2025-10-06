@@ -1,50 +1,65 @@
-# 👋 Hi, I'm Durga Prasad Giri  
-### 🚀 Full Stack & AI/ML Engineer | Builder | Learner  
-
-- 🔭 Currently working on AI, ML, and Deep Learning Projects  
-- 🌱 Learning LangChain, FastAPI, and MLOps  
-- 💬 Ask me about Python, Django, React, or Machine Learning  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/durga-p-giri-817470137/)  
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/DurgaPrasadGiri">Durga Prasad Giri</a></h1>
+<h3 align="center">🚀 Full Stack & AI/ML Engineer | Builder | Lifelong Learner</h3>
 
 ---
 
-## 🧰 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### 💡 About Me  
+- 🔭 Currently building projects in **AI, ML, and Deep Learning**  
+- 🌱 Learning **LangChain**, **FastAPI**, and **MLOps**  
+- 💬 Ask me about **Python, Django, React, or Machine Learning**  
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/your-link)  
 
 ---
 
-## 🏆 GitHub Achievements & Stats
-
-### 🏅 Trophies  
-![Trophy](https://github-profile-trophy.vercel.app/?username=DurgaPrasadGiri&theme=onedark&margin-w=10&margin-h=10)
-
-### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DurgaPrasadGiri&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaPrasadGiri&layout=compact&theme=radical)
-
-### 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DurgaPrasadGiri&theme=radical)
-
----
-
-## 👀 Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=DurgaPrasadGiri&label=Profile%20Views&color=blue&style=flat)
+### ⚙️ Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
 ---
 
-## 🧠 Currently Exploring  
-- Building chatbots with LangChain + FastAPI  
-- Deploying AI models on Azure  
-- Advanced MLOps workflows  
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DurgaPrasadGiri&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="trophies"/>
+</p>
 
 ---
 
-## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durga-p-giri-817470137/)   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/DPG746)
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DurgaPrasadGiri&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurgaPrasadGiri&theme=radical" alt="GitHub streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaPrasadGiri&layout=compact&theme=radical" width="50%" alt="Top languages"/>
+</p>
+
+---
+
+### 👀 Visitors Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DurgaPrasadGiri&label=Profile%20Views&color=blue&style=flat-square" alt="Visitors"/>
+</p>
+
+---
+
+### 🧠 Currently Exploring  
+- Chatbots using **LangChain + FastAPI**  
+- **MLOps pipelines** with Docker & CI/CD  
+- **AI deployments** on Azure  
+
+---
+
+### 🤝 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
