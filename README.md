@@ -24,7 +24,7 @@
 
 ### 🏆 Badges & Achievements
 ![Open Source](https://img.shields.io/badge/Open--Source-Contributor-blue)
-![Machine Learning](https://img.shields.io/badge/ML-Engineer-orange)
+![Machine Learning](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/production-ml-systems)
 ---
 
 ## 🏆 GitHub Achievements & Stats
