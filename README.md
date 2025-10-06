@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/DurgaPrasadGiri">Durga Prasad Giri</a></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Python+%7C+Django+%7C+FastAPI;Building+Smart+AI+Apps+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <h3 align="center">🚀 Full Stack & AI/ML Engineer | Builder | Lifelong Learner</h3>
 
