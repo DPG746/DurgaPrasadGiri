@@ -10,6 +10,25 @@
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/durga-p-giri-817470137/)  
 
 ---
+## 💻 Coding & Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/DurgaPrasadGiri" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/Durgagiri0949" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/durgaprasadgiri" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  🚀 I regularly solve Data Structures & Algorithms problems in Python to strengthen my fundamentals and logical thinking.
+</p>
+
+---
 
 ### ⚙️ Tech Stack  
 <p align="center">
