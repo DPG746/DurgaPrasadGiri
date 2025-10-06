@@ -98,17 +98,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DPG746&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPG746&layout=compact&theme=radical" width="50%" alt="Top languages"/>
-</p>
-
----
-
 ### 👀 Visitors Count  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DPG746&label=Profile%20Views&color=blue&style=flat-square" alt="Visitors"/>
