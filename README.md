@@ -26,19 +26,19 @@
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DurgaPrasadGiri&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DPG746&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="trophies"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DurgaPrasadGiri&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurgaPrasadGiri&theme=radical" alt="GitHub streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DPG746&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPG746&theme=radical" alt="GitHub streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaPrasadGiri&layout=compact&theme=radical" width="50%" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPG746&layout=compact&theme=radical" width="50%" alt="Top languages"/>
 </p>
 
 ---
