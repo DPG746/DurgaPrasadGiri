@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  🚀 I regularly solve Data Structures & Algorithms problems in Python to strengthen my fundamentals and logical thinking.
+  🚀 I also solve Data Structures & Algorithms problems in Python to strengthen my fundamentals and logical thinking.
 </p>
 
 ---
