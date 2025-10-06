@@ -39,6 +39,12 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/DPG746/DPG746/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### ⚙️ Tech Stack  
 <p align="center">
   <!-- Backend -->
